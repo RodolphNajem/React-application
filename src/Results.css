@@ -1,0 +1,22 @@
+.results {
+    margin-top: 20px;
+width: 60%;
+margin-left: auto;
+margin-right: auto;
+text-align: left;
+}
+.results ul {
+    list-style-type : none;
+    padding: 0;
+
+}
+
+.results li {
+    padding :10px;
+    border-bottom : 1px solid #ddd;
+}
+
+.highlight {
+    background-color: yellow;
+    font-weight: bold
+}

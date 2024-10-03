@@ -1,0 +1,9 @@
+.search-box {
+    margin : 20px auto;
+    width : 50%;
+}
+.search-box input {
+    width : 100%;
+padding: 10px ; 
+font-size: 16px;
+}
